@@ -1,0 +1,562 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+}
+.container {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  background: rgba(5, 11, 22, 1)
+    url(./static/images/cb774ea5-4384-41fe-8b27-0d39b6061c59.png) no-repeat;
+  background-size: cover;
+  overflow-x: hidden;
+  transform-origin: 0px 0px;
+}
+.container::-webkit-scrollbar {
+  display: none;
+}
+#item81db6bf0-576f-11ec-a0f6-2576a775d511 {
+  overflow: hidden;
+  position: absolute;
+  left: 2032.22px;
+  top: 693.8px;
+  width: 644.34px;
+  height: 826.64px;
+  z-index: 7;
+}
+#item81db6bf1-576f-11ec-a0f6-2576a775d511 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 412.31px;
+  height: 50px;
+  z-index: 25;
+}
+#item81db6bf2-576f-11ec-a0f6-2576a775d511 {
+  overflow: hidden;
+  position: absolute;
+  left: 2.34px;
+  top: 56.64px;
+  width: 642px;
+  height: 770px;
+  z-index: 24;
+}
+#item11c92eb0-576a-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 1391.3px;
+  top: 58px;
+  width: 528.7px;
+  height: 1022px;
+  z-index: 6;
+}
+#itemcfb77450-50fc-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 9.7px;
+  top: 699.86px;
+  width: 481px;
+  height: 299.5px;
+  z-index: 9;
+}
+#item34d3bdf0-5768-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 5.59px;
+  top: 45.08px;
+  width: 474.39px;
+  height: 254.42px;
+  z-index: 3;
+}
+#itemcfb77452-50fc-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 22.2px;
+  top: 19px;
+  width: 70.07px;
+  height: 30px;
+  z-index: 2;
+}
+#itemcfb77453-50fc-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 481px;
+  height: 293px;
+  z-index: 1;
+}
+#itemca78ae50-50fc-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 375.75px;
+  width: 490.7px;
+  height: 293px;
+  z-index: 8;
+}
+#itemca78ae52-50fc-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 28.7px;
+  top: 19px;
+  width: 106.87px;
+  height: 30px;
+  z-index: 3;
+}
+#item0b73a900-50fd-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 18.45px;
+  width: 482.16px;
+  height: 271.9px;
+  z-index: 2;
+}
+#itemca78ae53-50fc-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 9.7px;
+  top: 0px;
+  width: 481px;
+  height: 293px;
+  z-index: 1;
+}
+#item444031d3-a494-4e81-a8a5-7185b55c706e {
+  overflow: hidden;
+  position: absolute;
+  left: 499.7px;
+  top: 0px;
+  width: 29px;
+  height: 1022px;
+  z-index: 7;
+}
+#item62faff80-50fc-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 9.7px;
+  top: 49px;
+  width: 481px;
+  height: 293px;
+  z-index: 6;
+}
+#item62faff82-50fc-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 19px;
+  top: 19px;
+  width: 106.87px;
+  height: 30px;
+  z-index: 3;
+}
+#item5f478cf0-5769-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 25.71px;
+  top: 50.48px;
+  width: 431.38px;
+  height: 222.62px;
+  z-index: 2;
+}
+#item62faff83-50fc-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 481px;
+  height: 293px;
+  z-index: 1;
+}
+#item4dbac1d0-50f4-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 58px;
+  width: 522px;
+  height: 1022px;
+  z-index: 5;
+}
+#iteme61d2ef0-50f3-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 41px;
+  top: 699.05px;
+  width: 481px;
+  height: 293px;
+  z-index: 6;
+}
+#itemea2522a0-50f3-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 16.4px;
+  top: 45.08px;
+  width: 445.56px;
+  height: 240.01px;
+  z-index: 5;
+}
+#iteme61d2ef2-50f3-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 19px;
+  top: 19px;
+  width: 106.87px;
+  height: 30px;
+  z-index: 4;
+}
+#iteme61d2ef3-50f3-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 481px;
+  height: 293px;
+  z-index: 3;
+}
+#itemf7408070-50f2-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 41px;
+  top: 375.25px;
+  width: 481px;
+  height: 293.5px;
+  z-index: 4;
+}
+#itemf7408072-50f2-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 15px;
+  top: 19px;
+  width: 119.53px;
+  height: 30px;
+  z-index: 3;
+}
+#item01be81a0-50f3-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 11.59px;
+  top: 20.41px;
+  width: 458.19px;
+  height: 273.09px;
+  z-index: 2;
+}
+#itemf7408073-50f2-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 481px;
+  height: 293px;
+  z-index: 1;
+}
+#itemfe323db0-50de-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 41px;
+  top: 48.83px;
+  width: 481px;
+  height: 299.5px;
+  z-index: 3;
+}
+#item5e44c610-50de-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 5.59px;
+  top: 45.08px;
+  width: 474.39px;
+  height: 254.42px;
+  z-index: 3;
+}
+#item509f1f10-50de-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 19px;
+  top: 19px;
+  width: 106.87px;
+  height: 30px;
+  z-index: 2;
+}
+#itemf14a0fc8-ec96-40e4-a93d-e8ff586a1c53 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 481px;
+  height: 293px;
+  z-index: 1;
+}
+#item6a018aa7-f9dd-443a-92d3-ad7dd2c52199 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 29px;
+  height: 1022px;
+  z-index: 2;
+}
+#itemdfc0ed00-50dd-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 6px;
+  top: 0px;
+  width: 1908px;
+  height: 92px;
+  z-index: 4;
+}
+#item8b5a7b00-50dd-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 714px;
+  top: 11px;
+  width: 480px;
+  height: 66px;
+  z-index: 4;
+}
+#item5973d280-50dd-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 1612.81px;
+  top: 40.67px;
+  width: 223.78px;
+  height: 30px;
+  z-index: 3;
+}
+#item3cc3eb70-50dd-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 133.92px;
+  top: 0px;
+  width: 89.86px;
+  height: 30px;
+  z-index: 3;
+}
+#item1faf0100-50dd-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 38.17px;
+  top: 0px;
+  width: 89.86px;
+  height: 30px;
+  z-index: 2;
+}
+#item44179269-caed-4ed7-9fac-6b297e471041 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0.33px;
+  width: 28px;
+  height: 29px;
+  z-index: 1;
+}
+#itembc1f0720-50dc-11ec-ad70-79c9bbd36f20 {
+  overflow: hidden;
+  position: absolute;
+  left: 62.6px;
+  top: 22.73px;
+  width: 175.45px;
+  height: 57.72px;
+  z-index: 2;
+}
+#item4aea3f16-e124-4d14-91f4-a6267f059dbd {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1908px;
+  height: 92px;
+  z-index: 1;
+}
+#itemdda89130-5768-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 537.13px;
+  top: 136.92px;
+  width: 841.45px;
+  height: 150px;
+  z-index: 3;
+}
+#item14fdd430-5767-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 400.45px;
+  top: 0px;
+  width: 441px;
+  height: 150px;
+  z-index: 3;
+}
+#itema2f9bfc0-5766-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 49.92px;
+  top: 29.33px;
+  width: 260.25px;
+  height: 78.75px;
+  z-index: 11;
+}
+#itema2f9bfc1-5766-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 219px;
+  top: 42.5px;
+  width: 41.25px;
+  height: 30px;
+  z-index: 17;
+}
+#itema2f9bfc2-5766-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 28.75px;
+  width: 226.25px;
+  height: 50px;
+  z-index: 16;
+}
+#itema2f9bfc3-5766-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 8.75px;
+  top: 0px;
+  width: 67.5px;
+  height: 30px;
+  z-index: 14;
+}
+#itema1f651b4-9bb2-4954-a9c2-eb2992c7ccce {
+  overflow: hidden;
+  position: absolute;
+  left: 298.17px;
+  top: 0px;
+  width: 141px;
+  height: 150px;
+  z-index: 10;
+}
+#item223640ec-279f-4c0d-adba-62a720ff0051 {
+  overflow: hidden;
+  position: absolute;
+  left: 53.06px;
+  top: 106.28px;
+  width: 238px;
+  height: 8px;
+  z-index: 9;
+}
+#item7f6bc9bd-0b2d-411e-8dfe-5fe6b4f589da {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 441px;
+  height: 150px;
+  z-index: 8;
+}
+#item11717920-5767-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 441px;
+  height: 150px;
+  z-index: 2;
+}
+#itema1af8c80-5766-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 118.12px;
+  top: 29.33px;
+  width: 210.25px;
+  height: 78.75px;
+  z-index: 14;
+}
+#item78b1ed50-5766-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 169px;
+  top: 42.5px;
+  width: 41.25px;
+  height: 30px;
+  z-index: 17;
+}
+#item4df62360-5766-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 28.75px;
+  width: 180px;
+  height: 50px;
+  z-index: 16;
+}
+#item3afc59a0-5766-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 14.75px;
+  top: 0px;
+  width: 67.5px;
+  height: 30px;
+  z-index: 14;
+}
+#item53371ea3-146f-47bf-a2d7-be098f1cb5cf {
+  overflow: hidden;
+  position: absolute;
+  left: 1.12px;
+  top: 0px;
+  width: 141px;
+  height: 150px;
+  z-index: 12;
+}
+#item8bb57c03-9628-40cf-9f90-5e83e50decfe {
+  overflow: hidden;
+  position: absolute;
+  left: 132.29px;
+  top: 106.28px;
+  width: 238px;
+  height: 8px;
+  z-index: 11;
+}
+#item37454d0d-08b5-4705-af30-85d2abb7ee54 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 441px;
+  height: 150px;
+  z-index: 9;
+}
+#itemcce3f6f0-5768-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 40px;
+  top: 107px;
+  width: 1829.08px;
+  height: 1456.9px;
+  z-index: 2;
+}
+#item5f6957b0-5767-11ec-b887-a7fec2fce616 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1829.08px;
+  height: 1456.9px;
+  z-index: 2;
+}
+#itemee2c5f27-9942-4b94-95b7-2aca57a82825 {
+  overflow: hidden;
+  position: absolute;
+  left: 343.34px;
+  top: 108px;
+  width: 1116px;
+  height: 865px;
+  z-index: 1;
+}
+#itemc0e5f2e8-6d9b-444e-a5df-878102799a06 {
+  overflow: hidden;
+  position: absolute;
+  left: 26.67px;
+  top: 1063px;
+  width: 1854px;
+  height: 17px;
+  z-index: 1;
+}
